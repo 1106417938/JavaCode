@@ -7,6 +7,7 @@ public class qs217 {
     public static void main(String[] args) {
         int[] nums = {1,2,3,1};
         System.out.println(containsDuplicate(nums));
+        //试试
     }
     public static boolean containsDuplicate(int[] nums) {
         Set<Integer> set = new HashSet<>();
