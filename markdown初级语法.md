@@ -97,8 +97,6 @@
 
 >使用![]后面跟小括号
 >
->![](C:\Users\ouyangliu\Pictures\Screenshots\屏幕截图 2024-04-06 202128.png)
->
 >
 
 #  链接
